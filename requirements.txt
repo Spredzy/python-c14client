@@ -1,0 +1,2 @@
+PrettyTable
+-e git://github.com/Spredzy/python-c14.git#egg=python-c14
