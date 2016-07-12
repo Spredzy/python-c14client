@@ -1,7 +1,9 @@
 python-c14client
 ================
 
-A python client for Online.net C14 storage solution.
+A (quickly hacked) python client for Online.net C14 storage solution.
+Will suffer major changes in the comming release. Main point is to demostrate that
+python-c14 does actually work as expected.
 
 **Note**: One needs to export its token to the environment variable ``$C14_TOKEN``.
 
